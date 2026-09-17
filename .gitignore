@@ -1,0 +1,13 @@
+# Local secrets
+.webui_secret_key
+*.secret
+*.key
+
+# Local/runtime data
+*.log
+__pycache__/
+.venv/
+
+# Large installers / binaries
+*.exe
+
